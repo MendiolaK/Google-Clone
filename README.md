@@ -27,5 +27,5 @@ Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como 
 
 ## ¡Link al demo! 🏄‍♀️
 Visualiza mi proyecto terminado aquí: [Clonación de Google](https://mendiolak.github.io/Google-Clone/)
-
+![interfaz](https://user-images.githubusercontent.com/131838592/236779151-1f8e0c6f-1249-4f35-8def-06c3aad8709c.jpg)
 
